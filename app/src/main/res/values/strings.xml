@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UPI Scam Shield</string>
+    
+    <!-- Main Screen -->
+    <string name="main_title">UPI Scam Shield</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="scan_history">Scan History</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Scanner Screen -->
+    <string name="scanner_title">Scan UPI QR Code</string>
+    <string name="scanner_instruction">Position QR code within the frame</string>
+    <string name="camera_permission_required">Camera permission is required to scan QR codes</string>
+    <string name="grant_permission">Grant Permission</string>
+    
+    <!-- Risk Analysis -->
+    <string name="risk_level_safe">Safe</string>
+    <string name="risk_level_low">Low Risk</string>
+    <string name="risk_level_medium">Medium Risk</string>
+    <string name="risk_level_high">High Risk</string>
+    <string name="risk_level_critical">Critical Risk</string>
+    
+    <!-- Result Screen -->
+    <string name="result_title">Scan Result</string>
+    <string name="upi_id">UPI ID</string>
+    <string name="merchant_name">Merchant Name</string>
+    <string name="amount">Amount</string>
+    <string name="risk_assessment">Risk Assessment</string>
+    <string name="risk_factors">Risk Factors</string>
+    <string name="scan_another">Scan Another</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="pdf_exported">PDF exported successfully</string>
+    
+    <!-- History Screen -->
+    <string name="history_title">Scan History</string>
+    <string name="no_scans_yet">No scans yet</string>
+    <string name="clear_history">Clear History</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Subscription Screen -->
+    <string name="subscription_title">Premium Features</string>
+    <string name="subscription_description">Unlock unlimited scans and advanced protection</string>
+    <string name="subscription_price">₹499/year</string>
+    <string name="subscribe_now">Subscribe Now</string>
+    <string name="free_scans_remaining">Free scans remaining: %d</string>
+    <string name="subscription_active">Premium Active</string>
+    <string name="restore_purchase">Restore Purchase</string>
+    
+    <!-- Premium Features -->
+    <string name="feature_unlimited_scans">Unlimited QR Code Scans</string>
+    <string name="feature_advanced_detection">Advanced Scam Detection</string>
+    <string name="feature_pdf_export">PDF Report Export</string>
+    <string name="feature_history">Detailed Scan History</string>
+    <string name="feature_app_lock">App Lock Protection</string>
+    <string name="feature_priority_support">Priority Support</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="enable_app_lock">Enable App Lock</string>
+    <string name="app_lock_description">Secure app with biometric authentication</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    
+    <!-- App Lock -->
+    <string name="app_lock_title">App Lock</string>
+    <string name="authenticate_to_continue">Authenticate to continue</string>
+    <string name="biometric_prompt_title">Verify your identity</string>
+    <string name="biometric_prompt_subtitle">Use biometric to unlock</string>
+    <string name="biometric_prompt_description">Touch sensor to unlock the app</string>
+    <string name="authentication_failed">Authentication failed</string>
+    
+    <!-- Errors -->
+    <string name="error_generic">An error occurred</string>
+    <string name="error_invalid_qr">Invalid QR code</string>
+    <string name="error_not_upi">Not a UPI QR code</string>
+    <string name="error_camera_init">Failed to initialize camera</string>
+    <string name="error_billing">Billing service unavailable</string>
+    
+    <!-- Dialogs -->
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_ok">OK</string>
+</resources>
